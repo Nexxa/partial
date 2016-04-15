@@ -23,6 +23,7 @@
   "engines": {
     "node": ">=4.2"
   },
+  "repository": "Nexxa/partial",
   "bugs": {
     "url": "https://github.com/Nexxa/partial/issues"
   },
