@@ -20,6 +20,12 @@
   ],
   "author": "StefanoMagrassi <stefano.magrassi@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": ">=4.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Nexxa/partial/issues"
+  },
   "dependencies": {
     "nexxa-atoa": "1.0.2"
   },
