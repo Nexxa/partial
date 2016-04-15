@@ -2,4 +2,7 @@
 .eslintignore
 .eslintrc
 .npmrc
+.travis.yml
+LICENCE
+README.md
 /tests
