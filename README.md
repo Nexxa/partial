@@ -1,4 +1,4 @@
-# partial
+# partial [![Build Status](https://travis-ci.org/Nexxa/partial.svg?branch=master)](https://travis-ci.org/Nexxa/partial)
 
 Partial application of arguments to function.
 
